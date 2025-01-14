@@ -1,0 +1,45 @@
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\ConvalescentHome_project\ConvalescentHome\ConvalescentHome.Service\bin\Debug\net6.0\ConvalescentHome.Service.deps.json
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\ConvalescentHome_project\ConvalescentHome\ConvalescentHome.Service\bin\Debug\net6.0\ConvalescentHome.Service.dll
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\ConvalescentHome_project\ConvalescentHome\ConvalescentHome.Service\bin\Debug\net6.0\ConvalescentHome.Service.pdb
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\ConvalescentHome_project\ConvalescentHome\ConvalescentHome.Service\bin\Debug\net6.0\ConvalescentHome.Core.dll
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\ConvalescentHome_project\ConvalescentHome\ConvalescentHome.Service\bin\Debug\net6.0\ConvalescentHome.Core.pdb
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\ConvalescentHome_project\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\ConvalescentHome_project\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\ConvalescentHome_project\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\ConvalescentHome_project\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.AssemblyInfo.cs
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\ConvalescentHome_project\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\ConvalescentHome_project\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.csproj.CopyComplete
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\ConvalescentHome_project\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.dll
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\ConvalescentHome_project\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\refint\ConvalescentHome.Service.dll
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\ConvalescentHome_project\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.pdb
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\ConvalescentHome_project\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ref\ConvalescentHome.Service.dll
+D:\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\bin\Debug\net6.0\ConvalescentHome.Service.deps.json
+D:\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\bin\Debug\net6.0\ConvalescentHome.Service.dll
+D:\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\bin\Debug\net6.0\ConvalescentHome.Service.pdb
+D:\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\bin\Debug\net6.0\ConvalescentHome.Core.dll
+D:\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\bin\Debug\net6.0\ConvalescentHome.Core.pdb
+D:\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.csproj.AssemblyReference.cache
+D:\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.AssemblyInfoInputs.cache
+D:\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.AssemblyInfo.cs
+D:\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.csproj.CoreCompileInputs.cache
+D:\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.csproj.CopyComplete
+D:\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.dll
+D:\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\refint\ConvalescentHome.Service.dll
+D:\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.pdb
+D:\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ref\ConvalescentHome.Service.dll
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.AssemblyInfo.cs
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.dll
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\refint\ConvalescentHome.Service.dll
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.pdb
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\bin\Debug\net6.0\ConvalescentHome.Service.deps.json
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\bin\Debug\net6.0\ConvalescentHome.Service.dll
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\bin\Debug\net6.0\ConvalescentHome.Service.pdb
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\bin\Debug\net6.0\ConvalescentHome.Core.dll
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\bin\Debug\net6.0\ConvalescentHome.Core.pdb
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ConvalescentHome.Service.csproj.CopyComplete
+C:\Users\user1\Documents\תכנות\תכנות שנה ב\net core\‏‏תיקיה חדשה\ConvalescentHome\ConvalescentHome.Service\obj\Debug\net6.0\ref\ConvalescentHome.Service.dll

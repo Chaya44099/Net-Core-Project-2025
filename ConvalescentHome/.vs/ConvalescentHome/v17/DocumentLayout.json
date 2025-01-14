@@ -1,0 +1,442 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.core\\entities\\baby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|solutionrelative:convalescenthome.core\\entities\\baby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.core\\entities\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|solutionrelative:convalescenthome.core\\entities\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.core\\entities\\parturient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|solutionrelative:convalescenthome.core\\entities\\parturient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.core\\entities\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|solutionrelative:convalescenthome.core\\entities\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.core\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|solutionrelative:convalescenthome.core\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D72C2F-CA00-428D-A043-35DD1E9A97F1}|ConvalescentHome.Api\\ConvalescentHome.Api.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.api\\controllers\\babycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D72C2F-CA00-428D-A043-35DD1E9A97F1}|ConvalescentHome.Api\\ConvalescentHome.Api.csproj|solutionrelative:convalescenthome.api\\controllers\\babycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.core\\iservice\\ibabyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|solutionrelative:convalescenthome.core\\iservice\\ibabyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4A96F2-0762-4C36-BCEA-11C37319E05B}|ConvalescentHome.Data\\ConvalescentHome.Data.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.data\\repository\\babyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4A96F2-0762-4C36-BCEA-11C37319E05B}|ConvalescentHome.Data\\ConvalescentHome.Data.csproj|solutionrelative:convalescenthome.data\\repository\\babyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D72C2F-CA00-428D-A043-35DD1E9A97F1}|ConvalescentHome.Api\\ConvalescentHome.Api.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D72C2F-CA00-428D-A043-35DD1E9A97F1}|ConvalescentHome.Api\\ConvalescentHome.Api.csproj|solutionrelative:convalescenthome.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4A96F2-0762-4C36-BCEA-11C37319E05B}|ConvalescentHome.Data\\ConvalescentHome.Data.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.data\\repository\\invitationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4A96F2-0762-4C36-BCEA-11C37319E05B}|ConvalescentHome.Data\\ConvalescentHome.Data.csproj|solutionrelative:convalescenthome.data\\repository\\invitationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1AA535-2921-4CD0-A2EC-77ADCC03812B}|ConvalescentHome.Service\\ConvalescentHome.Service.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.service\\babyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1AA535-2921-4CD0-A2EC-77ADCC03812B}|ConvalescentHome.Service\\ConvalescentHome.Service.csproj|solutionrelative:convalescenthome.service\\babyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4A96F2-0762-4C36-BCEA-11C37319E05B}|ConvalescentHome.Data\\ConvalescentHome.Data.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4A96F2-0762-4C36-BCEA-11C37319E05B}|ConvalescentHome.Data\\ConvalescentHome.Data.csproj|solutionrelative:convalescenthome.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4A96F2-0762-4C36-BCEA-11C37319E05B}|ConvalescentHome.Data\\ConvalescentHome.Data.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.data\\repository\\roomsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4A96F2-0762-4C36-BCEA-11C37319E05B}|ConvalescentHome.Data\\ConvalescentHome.Data.csproj|solutionrelative:convalescenthome.data\\repository\\roomsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4A96F2-0762-4C36-BCEA-11C37319E05B}|ConvalescentHome.Data\\ConvalescentHome.Data.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.data\\repository\\parturientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4A96F2-0762-4C36-BCEA-11C37319E05B}|ConvalescentHome.Data\\ConvalescentHome.Data.csproj|solutionrelative:convalescenthome.data\\repository\\parturientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D72C2F-CA00-428D-A043-35DD1E9A97F1}|ConvalescentHome.Api\\ConvalescentHome.Api.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.api\\controllers\\parturientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D72C2F-CA00-428D-A043-35DD1E9A97F1}|ConvalescentHome.Api\\ConvalescentHome.Api.csproj|solutionrelative:convalescenthome.api\\controllers\\parturientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D72C2F-CA00-428D-A043-35DD1E9A97F1}|ConvalescentHome.Api\\ConvalescentHome.Api.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.api\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D72C2F-CA00-428D-A043-35DD1E9A97F1}|ConvalescentHome.Api\\ConvalescentHome.Api.csproj|solutionrelative:convalescenthome.api\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D72C2F-CA00-428D-A043-35DD1E9A97F1}|ConvalescentHome.Api\\ConvalescentHome.Api.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D72C2F-CA00-428D-A043-35DD1E9A97F1}|ConvalescentHome.Api\\ConvalescentHome.Api.csproj|solutionrelative:convalescenthome.api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D72C2F-CA00-428D-A043-35DD1E9A97F1}|ConvalescentHome.Api\\ConvalescentHome.Api.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.api\\controllers\\invitationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D72C2F-CA00-428D-A043-35DD1E9A97F1}|ConvalescentHome.Api\\ConvalescentHome.Api.csproj|solutionrelative:convalescenthome.api\\controllers\\invitationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.core\\iservice\\iinvitationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|solutionrelative:convalescenthome.core\\iservice\\iinvitationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.core\\iservice\\iworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|solutionrelative:convalescenthome.core\\iservice\\iworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.core\\iservice\\iroomsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|solutionrelative:convalescenthome.core\\iservice\\iroomsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.core\\iservice\\iparturientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65A47F1-0DBE-493E-BB6E-F0D9A1DED265}|ConvalescentHome.Core\\ConvalescentHome.Core.csproj|solutionrelative:convalescenthome.core\\iservice\\iparturientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1AA535-2921-4CD0-A2EC-77ADCC03812B}|ConvalescentHome.Service\\ConvalescentHome.Service.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.service\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1AA535-2921-4CD0-A2EC-77ADCC03812B}|ConvalescentHome.Service\\ConvalescentHome.Service.csproj|solutionrelative:convalescenthome.service\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1AA535-2921-4CD0-A2EC-77ADCC03812B}|ConvalescentHome.Service\\ConvalescentHome.Service.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.service\\roomsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1AA535-2921-4CD0-A2EC-77ADCC03812B}|ConvalescentHome.Service\\ConvalescentHome.Service.csproj|solutionrelative:convalescenthome.service\\roomsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1AA535-2921-4CD0-A2EC-77ADCC03812B}|ConvalescentHome.Service\\ConvalescentHome.Service.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.service\\parturientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1AA535-2921-4CD0-A2EC-77ADCC03812B}|ConvalescentHome.Service\\ConvalescentHome.Service.csproj|solutionrelative:convalescenthome.service\\parturientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1AA535-2921-4CD0-A2EC-77ADCC03812B}|ConvalescentHome.Service\\ConvalescentHome.Service.csproj|y:\\groups\\group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\convalescenthome\\convalescenthome.service\\invitationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1AA535-2921-4CD0-A2EC-77ADCC03812B}|ConvalescentHome.Service\\ConvalescentHome.Service.csproj|solutionrelative:convalescenthome.service\\invitationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\Entities\\Worker.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Core\\Entities\\Worker.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\Entities\\Worker.cs",
+              "RelativeToolTip": "ConvalescentHome.Core\\Entities\\Worker.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:38:11.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rooms.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\Entities\\Rooms.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Core\\Entities\\Rooms.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\Entities\\Rooms.cs",
+              "RelativeToolTip": "ConvalescentHome.Core\\Entities\\Rooms.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:38:03.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parturient.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\Entities\\Parturient.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Core\\Entities\\Parturient.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\Entities\\Parturient.cs",
+              "RelativeToolTip": "ConvalescentHome.Core\\Entities\\Parturient.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:36:39.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Invitation.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\Entities\\Invitation.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Core\\Entities\\Invitation.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\Entities\\Invitation.cs",
+              "RelativeToolTip": "ConvalescentHome.Core\\Entities\\Invitation.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:35:04.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Baby.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\Entities\\Baby.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Core\\Entities\\Baby.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\Entities\\Baby.cs",
+              "RelativeToolTip": "ConvalescentHome.Core\\Entities\\Baby.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:44:41.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Data\\DataContext.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Data\\DataContext.cs",
+              "RelativeToolTip": "ConvalescentHome.Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BabyController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Api\\Controllers\\BabyController.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Api\\Controllers\\BabyController.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Api\\Controllers\\BabyController.cs",
+              "RelativeToolTip": "ConvalescentHome.Api\\Controllers\\BabyController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ParturientController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Api\\Controllers\\ParturientController.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Api\\Controllers\\ParturientController.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Api\\Controllers\\ParturientController.cs",
+              "RelativeToolTip": "ConvalescentHome.Api\\Controllers\\ParturientController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvycAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Api\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Api\\Controllers\\RoomsController.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Api\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "ConvalescentHome.Api\\Controllers\\RoomsController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BabyRepository.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Data\\Repository\\BabyRepository.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Data\\Repository\\BabyRepository.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Data\\Repository\\BabyRepository.cs",
+              "RelativeToolTip": "ConvalescentHome.Data\\Repository\\BabyRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Api\\Program.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Api\\Program.cs",
+              "RelativeToolTip": "ConvalescentHome.Api\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvitationRepository.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Data\\Repository\\InvitationRepository.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Data\\Repository\\InvitationRepository.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Data\\Repository\\InvitationRepository.cs",
+              "RelativeToolTip": "ConvalescentHome.Data\\Repository\\InvitationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BabyService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Service\\BabyService.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Service\\BabyService.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Service\\BabyService.cs",
+              "RelativeToolTip": "ConvalescentHome.Service\\BabyService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBabyService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\IService\\IBabyService.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Core\\IService\\IBabyService.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\IService\\IBabyService.cs",
+              "RelativeToolTip": "ConvalescentHome.Core\\IService\\IBabyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InvitationController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Api\\Controllers\\InvitationController.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Api\\Controllers\\InvitationController.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Api\\Controllers\\InvitationController.cs",
+              "RelativeToolTip": "ConvalescentHome.Api\\Controllers\\InvitationController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ParturientRepository.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Data\\Repository\\ParturientRepository.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Data\\Repository\\ParturientRepository.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Data\\Repository\\ParturientRepository.cs",
+              "RelativeToolTip": "ConvalescentHome.Data\\Repository\\ParturientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoomsRepository.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Data\\Repository\\RoomsRepository.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Data\\Repository\\RoomsRepository.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Data\\Repository\\RoomsRepository.cs",
+              "RelativeToolTip": "ConvalescentHome.Data\\Repository\\RoomsRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwFQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IWorkerService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\IService\\IWorkerService.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Core\\IService\\IWorkerService.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\IService\\IWorkerService.cs",
+              "RelativeToolTip": "ConvalescentHome.Core\\IService\\IWorkerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRoomsService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\IService\\IRoomsService.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Core\\IService\\IRoomsService.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\IService\\IRoomsService.cs",
+              "RelativeToolTip": "ConvalescentHome.Core\\IService\\IRoomsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IParturientService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\IService\\IParturientService.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Core\\IService\\IParturientService.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\IService\\IParturientService.cs",
+              "RelativeToolTip": "ConvalescentHome.Core\\IService\\IParturientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IInvitationService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\IService\\IInvitationService.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Core\\IService\\IInvitationService.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Core\\IService\\IInvitationService.cs",
+              "RelativeToolTip": "ConvalescentHome.Core\\IService\\IInvitationService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WorkerController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Api\\Controllers\\WorkerController.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Api\\Controllers\\WorkerController.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Api\\Controllers\\WorkerController.cs",
+              "RelativeToolTip": "ConvalescentHome.Api\\Controllers\\WorkerController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WorkerService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Service\\WorkerService.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Service\\WorkerService.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Service\\WorkerService.cs",
+              "RelativeToolTip": "ConvalescentHome.Service\\WorkerService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoomsService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Service\\RoomsService.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Service\\RoomsService.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Service\\RoomsService.cs",
+              "RelativeToolTip": "ConvalescentHome.Service\\RoomsService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwBwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ParturientService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Service\\ParturientService.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Service\\ParturientService.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Service\\ParturientService.cs",
+              "RelativeToolTip": "ConvalescentHome.Service\\ParturientService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InvitationService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Service\\InvitationService.cs",
+              "RelativeDocumentMoniker": "ConvalescentHome.Service\\InvitationService.cs",
+              "ToolTip": "Y:\\Groups\\Group_4\\\u05D7\u05E4\u05E5 \u05D7\u05D9\u05D4 \u05E8\u05D9\u05D9\u05D6\u05DC\\net core\\ConvalescentHome\\ConvalescentHome.Service\\InvitationService.cs",
+              "RelativeToolTip": "ConvalescentHome.Service\\InvitationService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:55:50.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

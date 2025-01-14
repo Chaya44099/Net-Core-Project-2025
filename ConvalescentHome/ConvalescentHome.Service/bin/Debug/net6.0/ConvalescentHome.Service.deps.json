@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConvalescentHome.Service/1.0.0": {
+        "dependencies": {
+          "ConvalescentHome.Core": "1.0.0"
+        },
+        "runtime": {
+          "ConvalescentHome.Service.dll": {}
+        }
+      },
+      "ConvalescentHome.Core/1.0.0": {
+        "runtime": {
+          "ConvalescentHome.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConvalescentHome.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConvalescentHome.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

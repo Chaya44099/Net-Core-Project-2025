@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ConvalescentHome.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ConvalescentHome.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConvalescentHome.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConvalescentHome.Core/1.0.0": {
+      "type": "project",
+      "path": "../ConvalescentHome.Core/ConvalescentHome.Core.csproj",
+      "msbuildProject": "../ConvalescentHome.Core/ConvalescentHome.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ConvalescentHome.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user1\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user1\\Documents\\תכנות\\תכנות שנה ב\\net core\\‏‏תיקיה חדשה\\ConvalescentHome\\ConvalescentHome.Service\\ConvalescentHome.Service.csproj",
+      "projectName": "ConvalescentHome.Service",
+      "projectPath": "C:\\Users\\user1\\Documents\\תכנות\\תכנות שנה ב\\net core\\‏‏תיקיה חדשה\\ConvalescentHome\\ConvalescentHome.Service\\ConvalescentHome.Service.csproj",
+      "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user1\\Documents\\תכנות\\תכנות שנה ב\\net core\\‏‏תיקיה חדשה\\ConvalescentHome\\ConvalescentHome.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\user1\\Documents\\תכנות\\תכנות שנה ב\\net core\\‏‏תיקיה חדשה\\ConvalescentHome\\ConvalescentHome.Core\\ConvalescentHome.Core.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\תכנות\\תכנות שנה ב\\net core\\‏‏תיקיה חדשה\\ConvalescentHome\\ConvalescentHome.Core\\ConvalescentHome.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
